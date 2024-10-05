@@ -1,7 +1,5 @@
 from turtle import Turtle,Screen
-import os
 import time
-os.system("cls")
 #setup window
 window = Screen()
 window.setup(800,600)
